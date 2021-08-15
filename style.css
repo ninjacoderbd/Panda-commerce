@@ -1,3 +1,7 @@
+section{
+    border-radius: 7px;
+}
+
 .slider{
     background:#FEEAE9;
     padding: 10px 25px;
@@ -26,4 +30,28 @@
 }
 .cat3{
     background: linear-gradient(to left, #2f22e9, #4023e9cc);
+}
+
+.cardShadow{
+    box-shadow: 4px 4px 10px 1px rgba(0,0,0,0.27);
+}
+
+
+#contactUs{
+    background:#FEEAE9;
+    padding: 10px 25px;
+}
+#contactUs p{
+    color: gray;
+}
+
+.subscribe{
+    width: 36%;
+}
+.subbutton{
+    border: none;
+    background: linear-gradient(to bottom,#e9226e 0%,#f80361 100% );
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
